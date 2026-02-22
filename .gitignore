@@ -26,3 +26,19 @@ profile.txt
 *.dylib
 *.bin
 spec/
+
+# Upstream Cactus framework (not part of this submission)
+android/
+apple/
+assets/
+cactus/
+docs/
+flutter/
+libs/
+python/
+tests/
+.githooks/
+.github/
+CACTUS_VERSION
+DCO.md
+LICENSE
